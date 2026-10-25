@@ -97,6 +97,15 @@ python test_csvprofile.py
 
 测试用独立临时文件，不污染工作目录。
 
+---
+
+## 关于作者
+
+dkjlrday 做数据前先看清数据。这个工具先替你回答「这份 CSV 到底是什么样」，再决定怎么清洗。
+
+- 个人主页：<https://dkjlrday.github.io>
+- 仓库：<https://github.com/dkjlrday/csvprofile>
+
 ## 许可
 
 MIT，见 [LICENSE](LICENSE)。
