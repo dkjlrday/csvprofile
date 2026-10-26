@@ -9,6 +9,23 @@
 - 单文件，`csvprofile.py` 拷走就能用
 - 不联网、不写文件
 
+<!-- ipos:install -->
+## 安装
+
+零依赖，Python 3.10+ 即可：
+
+```bash
+pip install dkjlrday-csvprofile
+```
+
+装完直接用命令名调用：
+
+```bash
+csvprofile --help
+```
+
+也可以不用安装，直接把 `csvprofile.py` 拷走用——它只依赖标准库。
+
 ## 为什么需要它
 
 打开一个陌生的 CSV，第一反应通常是打开 Excel 拖两下。但当文件有几百 MB、
